@@ -13,7 +13,7 @@ const HomeBanner = () => {
     <Banner
       imgSrc={iPad}
       imgAlt="ipad"
-      title={['Mastering', 'the Digital Era']}
+      title={['Mastering', 'the Digital Era:']}
       description={[
         'Comprehensive Business Solutions for Diverse Sectors,',
         'Empowering Businesses through Digital Transformation      ',
