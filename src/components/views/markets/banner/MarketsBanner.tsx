@@ -2,7 +2,7 @@
 import React from 'react';
 import { useRouter } from 'next/navigation';
 import { Banner } from '@/components';
-import banner from '@assets/images/Markets/banner.png';
+import banner from '@assets/images/markets/banner.png';
 import background from '@assets/images/markets/background.jpg';
 const MarketsBanner = () => {
   const router = useRouter();
