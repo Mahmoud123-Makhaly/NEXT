@@ -1,7 +1,7 @@
 import React from 'react';
 
 import {   CompanyObjective } from '@/components';
-import vission from '@assets/images/about/vision.svg';
+import vission from '@assets/images/about/vision.jpg';
 
 const Vision = () => {
   const visionData = {

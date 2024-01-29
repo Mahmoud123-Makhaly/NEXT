@@ -2,7 +2,7 @@ import React from 'react';
 import { Col, Row } from 'reactstrap';
 
 import { MediaOverlayCard } from '@/components';
-import touchPoints from '@assets/images/about/touchPoints.svg';
+import touchPoints from '@assets/images/about/touchPoints.jpg';
 
 import TouchPointContent from './TouchPointContent';
 

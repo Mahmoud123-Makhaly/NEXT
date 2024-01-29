@@ -2,8 +2,8 @@ import React from 'react';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 
-import close from '@assets/images/contact-us/close.svg';
-import check from '@assets/images/contact-us/check.svg';
+import close from '@assets/images/contact-us/close.png';
+import check from '@assets/images/contact-us/check.png';
 import { ButtonMaker } from '@/components';
 
 interface IContactModal {

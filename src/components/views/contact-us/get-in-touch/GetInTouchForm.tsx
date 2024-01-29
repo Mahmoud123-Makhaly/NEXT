@@ -1,13 +1,11 @@
 'use client';
-import React, { useMemo, useState } from 'react';
-import { Formik, FormikProvider, useFormik } from 'formik';
-import { Button, Col, Form, Modal, ModalBody, ModalHeader, Row } from 'reactstrap';
+import React from 'react';
+import { FormikProvider, useFormik } from 'formik';
+import { Form } from 'reactstrap';
 import Image from 'next/image';
-import * as Yup from 'yup';
-import getintouch from '@assets/images/contact-us/gitintouch.svg';
+import getintouch from '@assets/images/contact-us/gitintouch.png';
 
 import { ButtonMaker, FormSelect, ModalBox, TextInput, phoneRegExp } from '@components';
-import { Link } from 'react-scroll';
 interface IGetInTouchForm {
   initialValues?: any;
   validationSchema?: any | (() => any);

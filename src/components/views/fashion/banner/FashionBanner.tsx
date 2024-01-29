@@ -3,8 +3,8 @@ import React from 'react';
 import { useRouter } from 'next/navigation';
 
 import { Banner } from '@/components';
-import banner from '@assets/images/fashion/banner.svg';
-import background from '@assets/images/fashion/background.svg';
+import banner from '@assets/images/fashion/banner.png';
+import background from '@assets/images/fashion/background.jpg';
 
 const FashionBanner = () => {
   const router = useRouter();

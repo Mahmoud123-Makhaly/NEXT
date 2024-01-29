@@ -2,13 +2,13 @@ import React from 'react';
 import Image from 'next/image';
 import { Col, Row } from 'reactstrap';
 
-import bioderma from '@assets/images/home-page/bioderma.svg';
-import naos from '@assets/images/home-page/naos.svg';
-import freshly from '@assets/images/home-page/freshly.svg';
-import alkayan from '@assets/images/home-page/alkyan.svg';
-import sap from '@assets/images/home-page/sap.svg';
-import alkhbaz from '@assets/images/home-page/alkhbaz.svg';
-import amts from '@assets/images/home-page/amts.svg';
+import bioderma from '@assets/images/home-page/bioderma.png';
+import naos from '@assets/images/home-page/naos.png';
+import freshly from '@assets/images/home-page/freshly.png';
+import alkayan from '@assets/images/home-page/alkyan.png';
+import sap from '@assets/images/home-page/sap.png';
+import alkhbaz from '@assets/images/home-page/alkhbaz.png';
+import amts from '@assets/images/home-page/amts.png';
 const OurClients = () => {
   const imgs = [
     {

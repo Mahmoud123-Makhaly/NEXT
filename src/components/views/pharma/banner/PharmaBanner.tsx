@@ -2,7 +2,7 @@
 import React from 'react';
 import { useRouter } from 'next/navigation';
 import { Banner } from '@/components';
-import banner from '@assets/images/pharma/banner.svg';
+import banner from '@assets/images/pharma/banner.png';
 import background from '@assets/images/pharma/background.jpg';
 
 const PharmaBanner = () => {

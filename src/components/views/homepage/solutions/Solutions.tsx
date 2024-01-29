@@ -2,7 +2,7 @@ import React from 'react';
 import { Col, Row } from 'reactstrap';
 import Image from 'next/image';
 
-import solution from '@assets/images/home-page/solution.png';
+import solution from '@assets/images/home-page/solution.jpg';
 
 import SolutionsInfo from './SolutionsInfo';
 

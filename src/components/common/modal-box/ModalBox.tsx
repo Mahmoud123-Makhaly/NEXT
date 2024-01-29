@@ -1,6 +1,6 @@
 'use client';
-import React, { useState } from 'react';
-import { Button, Modal, ModalBody, ModalHeader, Row } from 'reactstrap';
+import React from 'react';
+import { Modal, ModalBody } from 'reactstrap';
 
 interface IModalBox {
   children: React.ReactNode;

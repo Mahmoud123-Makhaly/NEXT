@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 
-import services from '@assets/images/home-page/services.png';
+import services from '@assets/images/home-page/services.jpg';
 
 const WelcomeCard = () => {
   return (

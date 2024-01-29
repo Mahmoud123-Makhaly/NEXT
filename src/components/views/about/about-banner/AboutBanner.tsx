@@ -1,8 +1,8 @@
 import React from 'react';
 
 import { Banner } from '@/components';
-import banner from '@assets/images/about/banner.svg';
-import background from '@assets/images/home-page/background.svg';
+import banner from '@assets/images/about/banner.jpg';
+import background from '@assets/images/home-page/background.jpg';
 
 const AboutBanner = () => {
   const aboutBanner = {

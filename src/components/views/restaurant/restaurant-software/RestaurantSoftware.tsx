@@ -1,6 +1,6 @@
 import React from 'react';
 import { DetailBox, VisualBlock } from '@/components';
-import software from '@assets/images/restaurant/software.svg';
+import software from '@assets/images/restaurant/software.png';
 const RestaurantSoftware = () => {
   return (
     <VisualBlock

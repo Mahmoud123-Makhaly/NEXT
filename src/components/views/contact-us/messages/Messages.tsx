@@ -1,9 +1,8 @@
 import React from 'react';
 import { ListModule, VisualBlock } from '@/components';
-import questions from '@assets/images/contact-us/questions.svg';
-import check from '@assets/images/markets/check.svg';
-import { Col, Row } from 'reactstrap';
-import Image from 'next/image';
+import questions from '@assets/images/contact-us/questions.png';
+import check from '@assets/images/markets/check.png';
+
 const Messages = () => {
   const MessagesList = [
     { imgSrc: check, imgAlt: 'check', text: 'Less than 12-hour response to your question.' },

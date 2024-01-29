@@ -3,7 +3,7 @@ import { Col, Row } from 'reactstrap';
 import Image from 'next/image';
 
 import { ContentBlock } from '@/components';
-import oms from '@assets/images/solutions/oms.svg';
+import oms from '@assets/images/solutions/oms.jpg';
 import { omsInfo } from '@/components';
 
 const Oms = () => {

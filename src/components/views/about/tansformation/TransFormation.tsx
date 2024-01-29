@@ -3,7 +3,7 @@ import React from 'react';
 import { useRouter } from 'next/navigation';
 
 import { DetailBox, VisualBlock } from '@/components';
-import transformation from '@assets/images/about/transformation.svg';
+import transformation from '@assets/images/about/transformation.png';
 
 const TransFormation = () => {
   const router = useRouter();

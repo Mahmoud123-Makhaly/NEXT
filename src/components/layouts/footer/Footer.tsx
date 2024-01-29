@@ -4,11 +4,11 @@ import { Col, Container, Row } from 'reactstrap';
 import Image from 'next/image';
 import Link from 'next/link';
 
-import logo from '@assets/images/footer/logo.svg';
-import twitter from '@assets/images/footer/twitter.svg';
-import instagram from '@assets/images/footer/instagram.svg';
-import facebook from '@assets/images/footer/facebook.svg';
-import linkedin from '@assets/images/footer/linkedin.svg';
+import logo from '@assets/images/footer/logo.png';
+import twitter from '@assets/images/footer/twitter.png';
+import instagram from '@assets/images/footer/instagram.png';
+import facebook from '@assets/images/footer/facebook.png';
+import linkedin from '@assets/images/footer/linkedin.png';
 
 const Footer = () => {
   return (

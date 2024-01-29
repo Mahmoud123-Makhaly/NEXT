@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { Col, Row } from 'reactstrap';
 
 import { lastMilelInfo, ContentBlock } from '@/components';
-import lastMile from '@assets/images/solutions/lastMile.svg';
+import lastMile from '@assets/images/solutions/lastMile.jpg';
 
 const LastMile = () => {
   return (

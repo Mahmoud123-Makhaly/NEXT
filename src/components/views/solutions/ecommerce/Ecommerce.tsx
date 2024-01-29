@@ -3,7 +3,7 @@ import { Col, Row } from 'reactstrap';
 import Image from 'next/image';
 
 import { ecommerceInfo, ContentBlock } from '@/components';
-import ecommerce from '@assets/images/solutions/ecommerce.svg';
+import ecommerce from '@assets/images/solutions/ecommerce.jpg';
 
 const Ecommerce = () => {
   return (

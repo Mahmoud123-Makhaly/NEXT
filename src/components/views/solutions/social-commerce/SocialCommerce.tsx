@@ -2,7 +2,7 @@ import React from 'react';
 import Image from 'next/image';
 import { Col, Row } from 'reactstrap';
 
-import social from '@assets/images/solutions/social.svg';
+import social from '@assets/images/solutions/social.jpg';
 import { ContentBlock, socialInfo } from '@/components';
 
 const SocialCommerce = () => {

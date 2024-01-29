@@ -3,7 +3,7 @@ import { Col, Row } from 'reactstrap';
 import Image from 'next/image';
 
 import { ContentBlock, posInfo } from '@/components';
-import pos from '@assets/images/solutions/pos.svg';
+import pos from '@assets/images/solutions/pos.jpg';
 
 const Pos = () => {
   return (

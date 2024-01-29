@@ -1,7 +1,7 @@
 import React from 'react';
 import { Col, Row } from 'reactstrap';
 
-import management from '@assets/images/about/management.svg';
+import management from '@assets/images/about/management.jpg';
 import { MediaOverlayCard } from '@/components';
 
 import SpecialtiesFields from './SpecialtiesFields';

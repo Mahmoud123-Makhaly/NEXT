@@ -1,6 +1,6 @@
 import React from 'react';
-import {   DetailBox, VisualBlock } from '@/components';
-import business from '@assets/images/pharma/business.svg';
+import { DetailBox, VisualBlock } from '@/components';
+import business from '@assets/images/pharma/business.png';
 const PharmaBusiness = () => {
   return (
     <VisualBlock

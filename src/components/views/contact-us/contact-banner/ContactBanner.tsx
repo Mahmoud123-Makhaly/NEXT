@@ -1,7 +1,7 @@
 import React from 'react';
 import { Banner } from '@/components';
-import banner from '@assets/images/contact-us/banner.svg';
-import background from '@assets/images/home-page/background.svg';
+import banner from '@assets/images/contact-us/banner.png';
+import background from '@assets/images/home-page/background.jpg';
 const ContactBanner = () => {
   const marketsBannerInfo = {
     tilte: ['Contact us '],

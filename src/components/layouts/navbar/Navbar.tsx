@@ -6,10 +6,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
-import logo from '@assets/images/navbar/logo.svg';
+import logo from '@assets/images/navbar/logo.jpg';
 import cheveron from '@assets/images/navbar/cheveron.png';
-import search from '@assets/images/navbar/search.svg';
-import menu from '@assets/images/navbar/menu.svg';
+import search from '@assets/images/navbar/search.jpg';
+import menu from '@assets/images/navbar/menu.png';
 
 import { dropdownItems } from './DropdownItems';
 

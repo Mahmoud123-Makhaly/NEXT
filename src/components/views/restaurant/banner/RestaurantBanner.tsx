@@ -2,8 +2,8 @@
 import React from 'react';
 import { useRouter } from 'next/navigation';
 import { Banner } from '@/components';
-import banner from '@assets/images/restaurant/banner.svg';
-import background from '@assets/images/home-page/background.svg';
+import banner from '@assets/images/restaurant/banner.png';
+import background from '@assets/images/home-page/background.jpg';
 const RestaurantBanner = () => {
   const router = useRouter();
   const bannerInfo = {

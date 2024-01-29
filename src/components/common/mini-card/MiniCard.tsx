@@ -1,8 +1,9 @@
 import React from 'react';
 import Image from 'next/image';
 import { Row, Col } from 'reactstrap';
+import { StaticImport } from 'next/dist/shared/lib/get-img-props';
 interface IMiniCardProps {
-  imgSrc?: string;
+  imgSrc?: string | StaticImport;
   text?: string;
   className?: string;
   title?: string;

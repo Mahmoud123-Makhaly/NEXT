@@ -2,11 +2,13 @@
 
 import React from 'react';
 import { Container, Row } from 'reactstrap';
+import { StaticImport } from 'next/dist/shared/lib/get-img-props';
 import Image from 'next/image';
+
 import { ButtonMaker } from '@components';
 
 interface IBannerProps {
-  imgSrc?: string;
+  imgSrc?: string | StaticImport;
   imgAlt?: string;
   title?: Array<string>;
   description?: Array<string>;
@@ -16,7 +18,7 @@ interface IBannerProps {
   contentSpace?: string;
   imageSpace?: string;
   reverse?: boolean;
-  backgroundImg?: string;
+  backgroundImg?: string | StaticImport;
 }
 const Banner = (props: IBannerProps) => {
   const {

@@ -3,7 +3,7 @@ import { Col, Row } from 'reactstrap';
 import Image from 'next/image';
 
 import { ContentBlock, channelInfo } from '@/components';
-import channel from '@assets/images/solutions/channel.svg';
+import channel from '@assets/images/solutions/channel.jpg';
 
 const ChannelManagement = () => {
   return (

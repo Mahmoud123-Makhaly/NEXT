@@ -3,8 +3,8 @@ import { Col, Row } from 'reactstrap';
 import Image from 'next/image';
 
 import { ListModule } from '@/components';
-import messages from '@assets/images/markets/messages.svg';
-import check from '@assets/images/markets/check.svg';
+import messages from '@assets/images/markets/messages.png';
+import check from '@assets/images/markets/check.png';
 const Messages = () => {
   const marketMessages = [
     {

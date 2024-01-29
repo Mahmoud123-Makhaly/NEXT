@@ -5,7 +5,7 @@ import { Row } from 'reactstrap';
 import Image from 'next/image';
 import * as Yup from 'yup';
 
-import getintouch from '@assets/images/contact-us/gitintouch.svg';
+import getintouch from '@assets/images/contact-us/gitintouch.png';
 import { ModalBox, phoneRegExp } from '@components';
 
 import GetInTouchForm from './GetInTouchForm';

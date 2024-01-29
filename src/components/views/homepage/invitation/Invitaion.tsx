@@ -3,7 +3,7 @@ import React from 'react';
 import { Col, Row } from 'reactstrap';
 import Image from 'next/image';
 
-import join from '@assets/images/home-page/join.svg';
+import join from '@assets/images/home-page/join.jpg';
 
 import InvitationMessage from './InvitationMessage';
 

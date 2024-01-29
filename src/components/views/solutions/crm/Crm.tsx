@@ -2,7 +2,7 @@ import React from 'react';
 import { Col, Row } from 'reactstrap';
 import Image from 'next/image';
 
-import crm from '@assets/images/solutions/crm.svg';
+import crm from '@assets/images/solutions/crm.jpg';
 import { crmInfo, ContentBlock } from '@/components';
 
 const Crm = () => {

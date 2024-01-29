@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 
-import support from '@assets/images/home-page/support.png';
+import support from '@assets/images/home-page/support.jpg';
 
 const SupportCard = () => {
   return (

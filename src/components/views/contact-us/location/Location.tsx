@@ -1,9 +1,9 @@
 import React from 'react';
 import { Col, Row } from 'reactstrap';
 
-import location from '@assets/images/contact-us/location.svg';
-import email from '@assets/images/contact-us/email.svg';
-import phone from '@assets/images/contact-us/phone.svg';
+import location from '@assets/images/contact-us/location.jpg';
+import email from '@assets/images/contact-us/email.jpg';
+import phone from '@assets/images/contact-us/phone.jpg';
 import { ListModule } from '@/components';
 const Location = () => {
   const dubaiLocation = [

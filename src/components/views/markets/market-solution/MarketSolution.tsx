@@ -1,7 +1,6 @@
 import React from 'react';
-import {   DetailBox, VisualBlock } from '@/components';
-import business from '@assets/images/markets/solutions.svg';
-import MarketSolutionContent from './MarketSolutionContent';
+import { DetailBox, VisualBlock } from '@/components';
+import business from '@assets/images/markets/solutions.png';
 
 const MarketSolution = () => {
   return (

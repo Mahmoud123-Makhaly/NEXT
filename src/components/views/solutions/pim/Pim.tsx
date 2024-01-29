@@ -3,7 +3,7 @@ import { Col, Row } from 'reactstrap';
 import Image from 'next/image';
 
 import { ContentBlock, pimInfo } from '@/components';
-import pim from '@assets/images/solutions/pim.svg';
+import pim from '@assets/images/solutions/pim.jpg';
 
 const Pim = () => {
   return (
